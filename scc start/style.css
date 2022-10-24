@@ -1,0 +1,19 @@
+h1{ background-color: aquamarine;
+color: red;
+width: 50vw;
+height: 80px;
+}
+body{
+    background-color: blue;
+}
+h2{ background-color: red;
+width: 50vw;
+color: azure;
+}
+h3{ background-color: blueviolet;
+    
+}
+#h3 { 
+    font-size: 20px;
+    width: 20vw;
+}
